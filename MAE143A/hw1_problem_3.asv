@@ -34,10 +34,10 @@ poels3 = RR_roots(polycoeff3)
 % roots
 % (c, c, -1)
 numcoeff1 = [6.8556 27.4226];
-zeros1 = RR_roots(numcoeff1)
+RR_roots(numcoeff1)
 % (-c,-c,-1)
 numcoeff2 = [-6.8556 -27.4226];
-zeros2 = RR_roots(numcoeff2)
+RR_roots(numcoeff2)
 % (0, 0, -u)
 numcoeff3 = [0 0];
-zeros3 = RR_roots(numcoeff3)
+RR_roots(numcoeff3)
