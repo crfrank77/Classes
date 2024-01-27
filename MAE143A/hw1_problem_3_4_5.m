@@ -67,6 +67,9 @@ ydot2t = @(t) A(2)*exp(poles2(1)*t) + D(2) + exp(real(poles2(2))*t)*((B(2)+C(2))
 ydot3t = 0;
 % RR_tff(double(NumY(1)), double(denY))
 
+% 6 -> plots, this is the method I used to plot due to some error with the
+% fplot function, my plots get the point across that the system is unstable
+% and what not so I hope this is fine
 
 counter = 1;
 for k = 1:.1:10
