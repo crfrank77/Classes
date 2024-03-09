@@ -1,0 +1,23 @@
+clear;
+close all;
+
+
+% 2014 midterm 1
+% q2
+
+% A
+F2=RR_tf([1 0] ,[1 1]); 
+
+h = 0.2;
+[F2z] = RR_C2D_tustin(F2,h);
+
+% B 
+F1 = RR_tf(1,[1 2 2 1]);  
+
+F = F1*F2;
+
+
+[Faz] = RR_C2D_tustin(Y,h);
+
+
+
