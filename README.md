@@ -9,5 +9,13 @@ Literature Review and Presentaion on District Heating and Cooling Systems
 Course Homeworks on system analysis 
 # MAE 156 A & B: Fundamental Principles of Mechanical Design I & II (Undergraduate Capstone Project)
 Passive Direct Air Contactor Project Presentation, Poster, and Executive Summary 
+# MAE 227: Convex Optimization for Engineers
+Course Project: Literature Review on DER and modern grid architectures that utilize convex optimization
+# MAE 243: Electrical Power System Modeling 
+Course Project: Custom Complex Capacity Expansion Model and Report examining variance caused by cost uncertainties in emerging carbon free technologies.
 # MAE 283A: Parametric Identification: Theory and Methods
-Course Project Microgrid System Modeling Files
+Course Project: Microgrid System Modeling Files
+# MAE 283B: Approximate Identification and Control
+Course Project: Multi System Identification and Control methods 
+
+
