@@ -1,7 +1,0 @@
-Cost_Component,CES_0pct,CES_20pct,CES_40pct,CES_60pct,CES_80pct,CES_100pct
-Fixed_Costs_Generation,5186.5,5186.5,5857.3,9765.0,12158.9,18669.2
-Fixed_Costs_Storage,0.0,0.0,0.0,81.9,6.2,0.0
-Fixed_Costs_Transmission,132.4,132.4,152.3,225.1,219.0,253.5
-Variable_Costs,8884.4,8884.4,8257.8,5688.6,6847.9,9180.3
-NSE_Costs,24.6,24.6,23.6,19.1,14.6,403.1
-Total_Costs,14227.9,14227.9,14291.0,15779.7,19246.5,28506.0
