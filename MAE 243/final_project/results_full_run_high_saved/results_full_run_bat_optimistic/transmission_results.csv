@@ -1,0 +1,11 @@
+Scenario,Line,Total_MW,New_MW,Start_MW
+bat_optimistic,1,5932.070290127449,2257.070290127449,3675
+bat_optimistic,2,200.0,100.0,100
+bat_optimistic,3,1920.0,0.0,1920
+bat_optimistic,4,10464.0,0.0,10464
+bat_optimistic,5,800.0,0.0,800
+bat_optimistic,6,6350.0,0.0,6350
+bat_optimistic,7,664.0,0.0,664
+bat_optimistic,8,7875.0,3675.0,4200
+bat_optimistic,9,2858.0,0.0,2858
+bat_optimistic,10,5150.0,0.0,5150

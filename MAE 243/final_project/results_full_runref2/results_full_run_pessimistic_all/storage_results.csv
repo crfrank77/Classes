@@ -1,0 +1,17 @@
+Scenario,R_ID,Resource,Zone,Total_MW,Total_MWh,New_MW,New_MWh,Duration_hr
+pessimistic_all,6,hydroelectric_pumped_storage,CA_N,615.15,4704.405034642034,0.0,0.0,7.647573818811726
+pessimistic_all,7,hydroelectric_pumped_storage,CA_N,1175.8,8146.420323325634,0.0,0.0,6.928406466512701
+pessimistic_all,17,hydroelectric_pumped_storage,CA_S,1623.0,11244.803695150114,0.0,0.0,6.928406466512701
+pessimistic_all,18,hydroelectric_pumped_storage,CA_S,42.0,290.99307159353344,0.0,0.0,6.928406466512701
+pessimistic_all,35,hydroelectric_pumped_storage,WECC_NMAZ,119.0,1888.889,0.0,0.0,15.873016806722688
+pessimistic_all,36,hydroelectric_pumped_storage,WECC_NMAZ,97.3,1235.9320147806,0.0,0.0,12.7022817551963
+pessimistic_all,43,hydroelectric_pumped_storage,WECC_WYCO,324.0,2952.13902447228,0.0,0.0,9.11154019898852
+pessimistic_all,44,hydroelectric_pumped_storage,WECC_WYCO,238.5,1652.4249422632793,0.0,0.0,6.928406466512701
+pessimistic_all,58,battery,CA_N,6671.517155770878,24880.342877805062,6671.517155770878,24880.342877805062,3.729338064623503
+pessimistic_all,75,battery,CA_S,0.0,0.0,0.0,0.0,0.0
+pessimistic_all,93,battery,WECC_N,0.0,0.0,0.0,0.0,0.0
+pessimistic_all,116,battery,WECC_NMAZ,0.0,0.0,0.0,0.0,0.0
+pessimistic_all,125,battery,WECC_PNW,0.0,0.0,0.0,0.0,0.0
+pessimistic_all,141,battery,WECC_WYCO,0.0,0.0,0.0,0.0,0.0
+pessimistic_all,167,hydroelectric_pumped_storage,WECC_PNW,214.0,1795.527322221346,0.0,0.0,8.390314589819374
+pessimistic_all,168,hydroelectric_pumped_storage,WECC_PNW,100.0,808.3140877598152,0.0,0.0,8.08314087759815

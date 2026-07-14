@@ -1,0 +1,7 @@
+Scenario,Line,Total_MW,New_MW,Start_MW
+pessimistic_all,1,3675.0,0.0,3675
+moderate_all,1,3675.0,0.0,3675
+optimistic_all,1,3675.0,0.0,3675
+geo_optimistic,1,3675.0,0.0,3675
+nuc_optimistic,1,3675.0,0.0,3675
+bat_optimistic,1,3675.0,0.0,3675

@@ -1,0 +1,13 @@
+Scenario,Segment,Zone,NSE_Price,NSE_MWh,NSE_Pct
+nuc_opt_bat_opt,1,1,81000000,0.0,0.0
+nuc_opt_bat_opt,2,1,5400000,0.0,0.0
+nuc_opt_bat_opt,1,2,81000000,0.0,0.0
+nuc_opt_bat_opt,2,2,5400000,0.0,0.0
+nuc_opt_bat_opt,1,3,81000000,0.0,0.0
+nuc_opt_bat_opt,2,3,5400000,0.0,0.0
+nuc_opt_bat_opt,1,4,81000000,0.0,0.0
+nuc_opt_bat_opt,2,4,5400000,0.0,0.0
+nuc_opt_bat_opt,1,5,81000000,0.0,0.0
+nuc_opt_bat_opt,2,5,5400000,0.0,0.0
+nuc_opt_bat_opt,1,6,81000000,0.0,0.0
+nuc_opt_bat_opt,2,6,5400000,0.0,0.0

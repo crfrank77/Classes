@@ -1,0 +1,2 @@
+Scenario,Total_B,FixedGen_B,FixedStor_B,FixedTrans_B,Variable_B,NSE_B,Geo_mult,Nuc_mult,Bat_mult,SolveTime_s
+nuc_opt_bat_opt,12.655296658685357,12.053896024755904,0.47770789537383046,0.1219099415,0.001782797057760162,0.0,1.0,0.39,0.31,279.1372951

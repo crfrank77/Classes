@@ -1,0 +1,11 @@
+Scenario,Line,Total_MW,New_MW,Start_MW
+moderate_all,1,4221.135469624978,546.1354696249782,3675
+moderate_all,2,200.0,100.0,100
+moderate_all,3,1920.0,0.0,1920
+moderate_all,4,10464.0,0.0,10464
+moderate_all,5,800.0,0.0,800
+moderate_all,6,6350.0,0.0,6350
+moderate_all,7,664.0,0.0,664
+moderate_all,8,7875.0,3675.0,4200
+moderate_all,9,2858.0,0.0,2858
+moderate_all,10,5150.0,0.0,5150
